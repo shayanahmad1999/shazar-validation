@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomValidation\Rules;
+namespace ShazarValidation\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
 use Illuminate\Support\Facades\Hash;

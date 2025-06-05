@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomValidation;
+namespace ShazarValidation;
 
 use Illuminate\Support\ServiceProvider;
 

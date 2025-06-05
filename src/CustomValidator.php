@@ -1,15 +1,15 @@
 <?php
 
-namespace CustomValidation;
+namespace ShazarValidation;
 
-use CustomValidation\Rules\AlphaSpace;
-use CustomValidation\Rules\StrongPassword;
-use CustomValidation\Rules\NotEmoji;
-use CustomValidation\Rules\ValidJSON;
-use CustomValidation\Rules\DisposableEmail;
-use CustomValidation\Rules\SlugFormat;
-use CustomValidation\Rules\MatchOldPassword;
-use CustomValidation\Rules\FileNameSafe;
+use ShazarValidation\Rules\AlphaSpace;
+use ShazarValidation\Rules\StrongPassword;
+use ShazarValidation\Rules\NotEmoji;
+use ShazarValidation\Rules\ValidJSON;
+use ShazarValidation\Rules\DisposableEmail;
+use ShazarValidation\Rules\SlugFormat;
+use ShazarValidation\Rules\MatchOldPassword;
+use ShazarValidation\Rules\FileNameSafe;
 
 class CustomValidator
 {
