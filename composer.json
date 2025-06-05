@@ -1,0 +1,25 @@
+{
+  "name": "shayan/shazar-validation",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Shayan\\ShazarValidation\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "ShazarValidation\\CustomValidatorServiceProvider"
+      ]
+    }
+  },
+  "authors": [
+    {
+      "name": "shayan"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require-dev": {
+    "phpunit/phpunit": "11.5.x-dev"
+  }
+}
