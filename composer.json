@@ -3,13 +3,13 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "ShazarValidation\\": "src/"
+      "Shayan\\ShazarValidation\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "ShazarValidation\\CustomValidatorServiceProvider"
+        "Shayan\\ShazarValidation\\CustomValidatorServiceProvider"
       ]
     }
   },

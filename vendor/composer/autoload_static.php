@@ -14,7 +14,7 @@ class ComposerStaticInita3658b3c532df57d9192c6420aeb7e8c
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
-            'ShazarValidation\\' => 17,
+            'Shayan\\ShazarValidation\\' => 24,
         ),
         'P' => 
         array (
@@ -27,7 +27,7 @@ class ComposerStaticInita3658b3c532df57d9192c6420aeb7e8c
     );
 
     public static $prefixDirsPsr4 = array (
-        'ShazarValidation\\' => 
+        'Shayan\\ShazarValidation\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

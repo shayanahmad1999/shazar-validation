@@ -1,6 +1,6 @@
 <?php
 
-namespace ShazarValidation;
+namespace Shayan\ShazarValidation;
 
 use ShazarValidation\Rules\AlphaSpace;
 use ShazarValidation\Rules\StrongPassword;
