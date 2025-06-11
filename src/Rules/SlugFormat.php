@@ -1,6 +1,6 @@
 <?php
 
-namespace ShazarValidation\Rules;
+namespace Shayan\ShazarValidation\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
 

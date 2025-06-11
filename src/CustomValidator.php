@@ -2,14 +2,14 @@
 
 namespace Shayan\ShazarValidation;
 
-use ShazarValidation\Rules\AlphaSpace;
-use ShazarValidation\Rules\StrongPassword;
-use ShazarValidation\Rules\NotEmoji;
-use ShazarValidation\Rules\ValidJSON;
-use ShazarValidation\Rules\DisposableEmail;
-use ShazarValidation\Rules\SlugFormat;
-use ShazarValidation\Rules\MatchOldPassword;
-use ShazarValidation\Rules\FileNameSafe;
+use Shayan\ShazarValidation\Rules\AlphaSpace;
+use Shayan\ShazarValidation\Rules\StrongPassword;
+use Shayan\ShazarValidation\Rules\NotEmoji;
+use Shayan\ShazarValidation\Rules\ValidJSON;
+use Shayan\ShazarValidation\Rules\DisposableEmail;
+use Shayan\ShazarValidation\Rules\SlugFormat;
+use Shayan\ShazarValidation\Rules\MatchOldPassword;
+use Shayan\ShazarValidation\Rules\FileNameSafe;
 
 class CustomValidator
 {
